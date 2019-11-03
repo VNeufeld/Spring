@@ -1,0 +1,28 @@
+2019-11-03 18:40:41,832 INFO org.springframework.boot.StartupInfoLogger [main] Starting DemoApplication on DESKTOP-IAFGIIV with PID 16212 (C:\Users\Valeri\eclipse-workspace-spring\demo\target\classes started by Valeri in C:\Users\Valeri\eclipse-workspace-spring\demo)
+2019-11-03 18:40:41,840 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-11-03 18:40:44,356 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 9090 (http)
+2019-11-03 18:40:44,395 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-9090"]
+2019-11-03 18:40:44,401 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2019-11-03 18:40:44,402 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-11-03 18:40:44,580 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2019-11-03 18:40:44,581 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 2667 ms
+2019-11-03 18:40:45,137 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [main] Initializing ExecutorService 'applicationTaskExecutor'
+2019-11-03 18:40:45,410 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-9090"]
+2019-11-03 18:40:45,499 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 9090 (http) with context path '/adacws'
+2019-11-03 18:40:45,503 INFO org.springframework.boot.StartupInfoLogger [main] Started DemoApplication in 4.44 seconds (JVM running for 5.502)
+2019-11-03 18:41:16,230 INFO org.apache.juli.logging.DirectJDKLog [http-nio-9090-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-11-03 18:41:16,230 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-9090-exec-1] Initializing Servlet 'dispatcherServlet'
+2019-11-03 18:41:16,237 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-9090-exec-1] Completed initialization in 7 ms
+2019-11-03 18:41:16,263 INFO com.example.demo.UserServlet [http-nio-9090-exec-1] hallo
+2019-11-03 18:41:57,696 INFO org.springframework.boot.StartupInfoLogger [main] Starting DemoApplication on DESKTOP-IAFGIIV with PID 14888 (C:\Users\Valeri\eclipse-workspace-spring\demo\target\classes started by Valeri in C:\Users\Valeri\eclipse-workspace-spring\demo)
+2019-11-03 18:41:57,700 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-11-03 18:41:58,934 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 9090 (http)
+2019-11-03 18:41:58,946 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-9090"]
+2019-11-03 18:41:58,947 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2019-11-03 18:41:58,947 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-11-03 18:41:59,042 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2019-11-03 18:41:59,043 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1267 ms
+2019-11-03 18:41:59,283 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [main] Initializing ExecutorService 'applicationTaskExecutor'
+2019-11-03 18:41:59,453 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-9090"]
+2019-11-03 18:41:59,478 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 9090 (http) with context path '/adacws'
+2019-11-03 18:41:59,481 INFO org.springframework.boot.StartupInfoLogger [main] Started DemoApplication in 2.272 seconds (JVM running for 2.706)
